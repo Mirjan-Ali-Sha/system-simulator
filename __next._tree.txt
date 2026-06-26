@@ -1,6 +1,6 @@
 :HL["/system-simulator/_next/static/chunks/066jf0nk75nic.css","style"]
-:HL["/system-simulator/_next/static/chunks/17tiw_cudmuu0.css","style"]
+:HL["/system-simulator/_next/static/chunks/0ajoip3mk7.-5.css","style"]
 :HL["/system-simulator/_next/static/media/797e433ab948586e-s.p.08e28id.o-okb.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
 :HL["/system-simulator/_next/static/media/caa3a2e1cccd8315-s.p.09~u27dqhyhd6.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
 :HL["/system-simulator/_next/static/chunks/0jvmviuftg5e2.css","style"]
-0:{"tree":{"name":"","param":null,"prefetchHints":16,"slots":{"children":{"name":"__PAGE__","param":null,"prefetchHints":0,"slots":null}}},"staleTime":300,"buildId":"JD-SRCap-POMdNCjDbX0w"}
+0:{"tree":{"name":"","param":null,"prefetchHints":16,"slots":{"children":{"name":"__PAGE__","param":null,"prefetchHints":0,"slots":null}}},"staleTime":300,"buildId":"Y1u5eSi_EveW7yIui2cqt"}
